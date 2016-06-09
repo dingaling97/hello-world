@@ -1,2 +1,4 @@
 # hello-world
-My first repository
+
+Hello!
+Sometimes I eat my ice cream before my main course.
